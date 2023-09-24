@@ -14,7 +14,7 @@ O programa tem uma função de Web Scraping que puxa todo o código HTML de qual
 #
 <ul>
  <li>Uma interface de usuário pelo tkinter.
- <li>Integrar á um site(Muito que provavelmente).
+ <li>Integrar a um site(Muito que provavelmente).
  <li>Uma central de dúvidas sobre tags.
 </ul>
 <hr>
